@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-redirect",
+  "version": "1.0.0",
+  "description": "NuxtJs module to dynamically redirect initial requests using a syntax similar to nuxt paging",
+  "main": "lib/module.js",
+  "scripts": {
+  },
+  "repository": "https://github.com/WebWorksDesigners/nuxt-redirect",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "nuxt",
+    "redirect",
+    "nuxt-redirect",
+    "vue-redirect",
+    "vue",
+    "re-direct",
+    "seo"
+  ],
+  "files": [
+    "lib"
+  ],
+  "author": "Aryan Gupta",
+  "license": "MIT"
+}
