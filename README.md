@@ -23,7 +23,7 @@ in NuxtJs to perform redirect.
 ```js
 {
   modules: [
-    ['redirect-module', {
+    ['nuxt-redirect', {
       // Redirect option here
     }]
   ]
@@ -35,7 +35,7 @@ in NuxtJs to perform redirect.
 ```js
 {
   modules: [
-    'redirect-module'
+    'nuxt-redirect'
   ],
   redirect: [
     // Redirect options here
